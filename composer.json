@@ -7,12 +7,12 @@
     "version": "2.1.0",
     "authors": [
         {
-            "name": "xiaobo.sun",
-            "email": "xiaobo.sun@qq.com"
+            "name": "egman",
+            "email": "egman@qq.com"
         }
     ],
     "support": {
-        "issues": "https://github.com/5ini99/think-addons/issues"
+        "issues": "https://github.com/egman77/think-addons/issues"
     },
     "require": {
         "php": ">=5.4.0",
