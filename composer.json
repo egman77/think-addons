@@ -1,7 +1,7 @@
 {
     "name": "egman77/think-addons",
     "description": "addons package for thinkphp5",
-    "homepage": "https://github.com/5ini99/think-addons",
+    "homepage": "https://github.com/egman77/think-addons",
     "license": "Apache-2.0",
     "minimum-stability": "dev",
     "version": "2.1.0",
